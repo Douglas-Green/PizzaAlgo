@@ -1,2 +1,6 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Make the phone call
+4. Decide whether it will be carry-out or delivery
+5. If carry-out who will go to get it
+6. If delivery make sure the business has address
